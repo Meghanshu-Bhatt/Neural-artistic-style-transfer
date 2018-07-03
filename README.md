@@ -4,3 +4,5 @@ it to the content image. By, style we basically mean, the patterns, the brushstr
 
 Used vgg-19 pretrained model :http://www.vlfeat.org/matconvnet/pretrained/#downloading-the-pre-trained-models
 This algorithm was created by Gatys et al. (2015) (https://arxiv.org/abs/1508.06576).
+
+Future work : I'll work on localized style transfer and mask style transfer
